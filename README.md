@@ -3,7 +3,7 @@ Frowse Style Guide
 
 ## Installation
 
-`$ npm install --save-dev @satazor/eslint-config`
+`$ npm i --save-dev eslint-config-frowse`
 
 ## Usage
 
