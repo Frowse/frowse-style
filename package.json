@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-frowse",
+  "version": "1.0.0",
+  "description": "ESLint Rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frowse/frowse-style.git"
+  },
+  "author": "xshirase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frowse/frowse-style/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "homepage": "https://github.com/Frowse/frowse-style#readme"
+}
