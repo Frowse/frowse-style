@@ -1,0 +1,43 @@
+{
+  "node_path": {
+    "windows": "node.exe",
+    "linux": "/home/xshirase/.nvm/versions/node/v6.9.1/bin/node",
+    "osx": "/usr/local/bin/node"
+  },
+
+  "local_eslint_path": {
+    "windows": "node_modules/eslint/bin/eslint.js",
+    "linux": "node_modules/.bin/eslint",
+    "osx": "node_modules/.bin/eslint"
+  },
+
+  "eslint_path": {
+    "windows": "%APPDATA%/npm/node_modules/eslint/bin/eslint",
+    "linux": "/home/xshirase/.nvm/versions/node/v6.9.1/bin/eslint",
+    "osx": "/usr/local/bin/eslint"
+  },
+
+  // Specify this path to an eslint config file to override the default behavior.
+  // Passed to eslint as --config. Read more here:
+  // http://eslint.org/docs/user-guide/command-line-interface#c---config
+  // If an absolute path is provided, it will use as is.
+  // Else, it will look for the file in the root of the project directory.
+  // Failing either, it will skip the config file
+  "config_path": "",
+
+  // Automatically format when a file is saved.
+  "format_on_save": true,
+
+  // Only attempt to format files with whitelisted extensions on save.
+  // Leave empty to disable the check
+  "format_on_save_extensions": [
+    "js",
+    "jsx",
+    "es",
+    "es6",
+    "babel"
+  ],
+
+  // logs eslint output messages to console when set to true
+  "debug": false
+}

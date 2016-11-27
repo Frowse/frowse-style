@@ -1,0 +1,23 @@
+{"codeformatter_js_options":
+    {
+        "syntaxes": "javascript,json,javascriptnext",
+        "format_on_save": false,
+        "indent_with_tabs": true,
+        "eol": "\n",
+        "preserve_newlines": true,
+        "max_preserve_newlines": 2,
+        "space_in_paren": false,
+        "space_in_empty_paren": false,
+        "e4x": false,
+        "jslint_happy": false,
+        "brace_style": "collapse",
+        "keep_array_indentation": false,
+        "keep_function_indentation": false,
+        "eval_code": false,
+        "unescape_strings": false,
+        "wrap_line_length": 0,
+        "break_chained_methods": false,
+        "end_with_newline": false,
+        "comma_first": false
+    }
+}
