@@ -12,7 +12,8 @@ module.exports = {
 		amd: true,
 		browser: true,
 		node: true,
-		es6: true
+		es6: true,
+		jquery: true
 	},
 	rules: {
 		'comma-dangle': [2, 'never'],
