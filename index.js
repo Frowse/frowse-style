@@ -151,7 +151,7 @@ module.exports = {
 			allowBlockEnd: true
 		}],
 		'linebreak-style': [2, 'unix'],
-		'max-nested-callbacks': [2, 6],
+		'max-nested-callbacks': [1, 6],
 		'new-cap': 2,
 		'new-parens': 2,
 		'newline-after-var': [2, 'always'],
