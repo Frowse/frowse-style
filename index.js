@@ -221,7 +221,7 @@ module.exports = {
 		'max-statements': [1, 25],
 		'no-bitwise': 2,
 		'no-plusplus': 2,
-		'keyword-spacing': [2, {before: true, after: true}]
+		'keyword-spacing': [2, {before: false, after: true}]
 	}
 
 };
