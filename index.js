@@ -212,7 +212,7 @@ module.exports = {
 		'prefer-spread': 1,
 		'prefer-reflect': 1,
 		'require-yield': 2,
-		'max-depth': [2, 5],
+		'max-depth': [1, 5],
 		'max-len': [1, 80, 4, {
 			ignoreComments: true,
 			ignoreUrls: true
