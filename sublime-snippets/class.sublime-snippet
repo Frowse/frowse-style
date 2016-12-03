@@ -1,7 +1,5 @@
 <snippet>
 	<content><![CDATA[
-'use strict';
-
 class $1 {
 
 	constructor($2) {
