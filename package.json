@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-frowse",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Frowse Style Guide",
   "main": "index.js",
   "scripts": {
